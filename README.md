@@ -173,12 +173,10 @@ This project demonstrates:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
-
-**Saad AbdElGhaffar**
-- GitHub: [@SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar)
-- LinkedIn: [Saad Ahmed](https://www.linkedin.com/in/saad-ahmed-683b77219/)
-- Email: saadabdelghaffar639@gmail.com
+## 📬 Contact
+- **GitHub:** [SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar) 
+- **LinkedIn:** [Saad Abd El-Ghaffar](https://www.linkedin.com/in/saadabdelghaffar/) 
+- **Email:** [saad.abdelghaffar.ai@gmail.com](mailto:saad.abdelghaffar.ai@gmail.com)
 
 ## ⭐ Show your support
 
